@@ -1,0 +1,2 @@
+# godoc
+go doc
